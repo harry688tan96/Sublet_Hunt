@@ -1,0 +1,878 @@
+street name
+Abbotswood Court
+Aberdeen Road
+Academy Crescent
+Acadia Court
+Ainsworth Court
+Albert Street
+Alexandra Avenue
+Alexmuir Place
+Algonquin Drive
+Allen Street East
+Allen Street West
+Allenby Court
+Allison Court
+Altheim Crescent
+Altheim Place
+Alvin Street
+Amberg Lane
+Amberwood Drive
+Ambleside Court
+American Beech Avenue
+Amos Avenue
+Anatolin Place
+Angler Way
+Anita Court
+Annapolis Court
+Anndale Court
+Anndale Road
+Apache Drive
+Appledale Crescent
+Applegate Court
+Arden Place
+Arlene Place
+Ascot Place
+Ash Tree Place
+Ashberry Place
+Ashby Court
+Ashcroft Place
+Ashton Crescent
+Aspenwood Place
+Atlantic Boulevard
+Auburn Drive
+Austin Drive
+Autumn Place
+Avignon Place
+Avondale Avenue North
+Avondale Avenue South
+Baffin Place
+Bairstow Crescent
+Baker Street
+Balsam Street
+Baringham Place
+Barrie Place
+Barrington Lane
+Barwick Crescent
+Basswood Street
+Batavia Place
+Bathurst Drive
+Bauer Place
+Bayhampton Crescent
+Bearinger Road
+Beaver Creek Crescent
+Beaver Creek Road
+Beaverwood Street
+Beckwith Court
+Beech Street
+Beechlawn Drive
+Beechwood Drive
+Beechwood Place
+Belcan Place
+Belgreen Way
+Bellehaven Drive
+Belmont Avenue
+Benjamin Road
+Bennington Gate
+Bernay Drive
+Bertha Street
+Beverley Street
+Bing Crescent
+Birchleaf Walk
+Birchmount Drive
+Bisch Street
+Black Cherry Street
+Black Forest Place
+Black Oak Crescent
+Blue Beech Boulevard
+Blue Springs Drive
+Bluenose Court
+Bluenose Crescent
+Bluestream Road
+Bluevale Street North
+Bluevale Street South
+Blythwood Place
+Blythwood Road
+Boettger Place
+Bolingbrooke Place
+Bonavista Drive
+Bonn Avenue
+Bordeaux Place
+Bowman Street
+Box Grove Place
+Boxbury Drive
+Braeburn Place
+Braemore Avenue
+Braemore Circle
+Braeside Avenue
+Brandenburg Boulevard
+Brandenburg Court
+Brandenburg Place
+Branstone Drive
+Breakwater Crescent
+Breezewood Crescent
+Brendawood Crescent
+Brentcliffe Drive
+Briarcliffe Crescent
+Briarcliffe Place
+Bricker Avenue
+Bridge Street West
+Bridgeport Road East
+Bridgeport Road West
+Bridgewater Crescent
+Bridle Path Court
+Bridle Trail
+Brigantine Drive
+Brighton Street
+Bristol Street
+Bronco Crescent
+Brookhaven Crescent
+Brookmill Crescent
+Brookmill Place
+Browning Place
+Brynhurst Boulevard
+Buckingham Boulevard
+Burning Bush Road
+Bushview Crescent
+Bushwood Court
+Buttercup Court
+Butternut Avenue
+Cabot Trail
+Cadbury Court
+Cairncroft Place
+Calvington Place
+Cambria Place
+Camelot Court
+Camille Crescent
+Candlewood Crescent
+Canewood Crescent
+Canewood Place
+Canso Place
+Canterbury Drive
+Cardiff Street
+Cardill Crescent
+Cardinal Crescent North
+Cardinal Crescent South
+Carene Court
+Carlaw Place
+Caroline Street North
+Caroline Street South
+Carriage House Court
+Carrington Place
+Carter Avenue
+Casswell Court
+Castlefield Avenue
+Castlegate Crescent
+Cavalier Place
+Cavelletti Court
+Cavendish Drive
+Cedar Bend Drive
+Cedar Bend Place
+Cedarbrae Avenue
+Cedarcliffe Drive
+Cedargrove Place
+Cedarvale Crescent
+Central Street
+Chablis Drive
+Chancery Lane
+Chancery Place
+Charing Cross
+Chelford Crescent
+Chelford Place
+Cheltonwood Crescent
+Chesapeake Crescent
+Chesapeake Drive
+Christopher Drive
+Churchill Court
+Churchill Street
+Citadel Court
+Clair Creek Boulevard
+Clairbrook Crescent
+Claridge Place
+Clayfield Avenue
+Claywood Court
+Clearwater Crescent
+Clipper Drive
+Clovervalley Court
+Coghill Place
+Colby Court
+Colby Drive
+Coldstream Drive
+Coleridge Drive
+Coleridge Place
+Colonial Drive
+Colt Street
+Columbia Forest Boulevard
+Columbia Forest Court
+Columbia Street East
+Columbia Street West
+Combermere Crescent
+Concordia Crescent
+Conestogo Road East
+Conestogo Road West
+Conrad Place
+Conservation Drive
+Coppercroft Court
+Cornerbrook Crescent
+Cornerbrook Place
+Cornridge Place
+Cornwall Street
+Corrie Crescent
+Country Squire Lane
+Country Squire Road
+Craigleith Drive
+Craigston Place
+Cranberry Street
+Creekside Drive
+Creighton Court
+Crimson Crescent
+Crimson Drive
+Croyden Place
+Culpepper Drive
+Culpepper Place
+Dale Crescent
+Dalecroft Place
+Daleside Place
+Daleview Place
+Dalhousie Lane
+Dansbury Drive
+Dansbury Place
+Dartmoor Crescent
+Davenport Road
+Dawson Street
+Dayna Crescent
+Deacon Wood Place
+Dearborn Boulevard
+Dearborn Place
+Deer Run Drive
+Deerberry Place
+Denholm Street
+Devitt Avenue North
+Devitt Avenue South
+Dick Street
+Dietz Avenue North
+Dietz Avenue South
+Dixie Crescent
+Dodds Lane
+Dogwood Lane
+Dominion Lane
+Dorchester Place
+Dorset Street
+Dotzert Court
+Douglas Street
+Dover Street
+Dovercliffe Place
+Downsview Place
+Drake Circle
+Drummerhill Crescent
+Dunbar Road North
+Dunbar Road South
+Dunvegan Drive
+Dupont Street East
+Dupont Street West
+Durward Place
+Dutton Drive
+Eastbridge Boulevard
+Eastgate Walk
+Edenbrook Place
+Edenvalley Crescent
+Edenwood Place
+Edgebrook Place
+Eiwo Court
+Elgin Crescent
+Elgin Street
+Ellesmere Court
+Ellis Crescent North
+Ellis Crescent South
+Elm Ridge Place
+Elmhurst Court
+Empire Street
+Ennismore Place
+Erb Street East
+Erb Street West
+Erbsville Court
+Erbsville Road
+Esson Street
+Euclid Avenue
+Exmoor Street
+Ezra Avenue
+Fallingbrook Drive
+Faraday Court
+Father David Bauer Drive
+Fenner Lane
+Fern Crescent
+Fern Road
+Ferndale Place
+Fir Street
+Fischer Hallman Road
+Fischer Hallman Road North
+Fischer Hallman Road South
+Forest Gate Crescent
+Forestlawn Road
+Forsyth Drive
+Forwell Creek Road
+Fountain Street
+Fox Cove Place
+Foxhill Place
+Foxhunt Place
+Foxhunt Road
+Frank Tompa Drive
+Frederick Banting Place
+Freemont Street
+Frieburg Drive
+Frobisher Drive
+Fullerton Street
+Garden Tree Court
+Gaspe Drive
+Gatestone Boulevard
+Gateview Drive
+George Street
+Gillen Street
+Glacier Street
+Glen Forrest Boulevard
+Glen Manor Boulevard
+Glenburn Drive
+Glendene Crescent
+Glenecho Court
+Glenelm Crescent
+Glengrove Place
+Glenridge Drive
+Glenridge Place
+Goldbeck Lane
+Goldbeck Street
+Golden Eagle Road
+Goldthread Street
+Graham Street
+Grand Banks Drive
+Grand Meadow Place
+Grand River Drive
+Grange Crescent
+Grangewood Court
+Grangewood Drive
+Grant Crescent
+Grasslands Court
+Green Acre Park Lane
+Green Acres Drive
+Green Meadow Crescent
+Greenbrier Drive
+Grey Alder Court
+Grey Squirrel Place
+Guildwood Place
+Hagen Court
+Hagey Boulevard
+Haldane Court
+Hallmark Drive
+Hamstead Court
+Harbour View Crescent
+Harper Place
+Hartwood Avenue
+Harvard Place
+Harvard Road
+Havelock Drive
+Havendale Crescent
+Havendale Place
+Hawthorn Street
+Hazel Street
+Heathcliffe Place
+Heather Hill Place
+Helene Crescent
+Hemingway Place
+Hemlock Street
+Herbert Street
+Herron Place
+Hiawatha Drive
+Hickory Street East
+Hickory Street West
+High Street
+Highpoint Avenue
+Highway 85
+Hillcrest Avenue
+Hillcroft Court
+Hilliard Avenue
+Hillside Street
+Holbeach Court
+Holbeach Crescent
+Holly Street
+Holly View Place
+Homeview Place
+Honeywood Place
+Hughes Lane
+Hunters Place
+Hunterswood Court
+Huntingdon Crescent
+Inglis Falls Place
+Innsbruck Place
+Interlaken Drive
+Inverhuron Crescent
+Ira Needles Boulevard
+Ironwood Place
+Iroquois Place
+Jackpine Place
+Jacob Lane
+James Street
+Jefferson Court
+John Street East
+John Street West
+Kane Drive
+Karen Place
+Karen Walk
+Karlsfeld Road
+Kawartha Street
+Keats Walk
+Keats Way
+Keats Way Place
+Keatswood Crescent
+Kelso Drive
+Kelso Place
+Killbear Court
+King Street North
+King Street North Service Road
+King Street South
+Kingscourt Drive
+Kingsford Place
+Kingsley Crescent
+Kingsmill Court
+Kiwanis Park Drive
+Klosters Drive
+Knightsbridge Court
+Kraus Drive
+Kumpf Drive
+Kuntz Lane
+Labrador Drive
+Lagenfeld Lane
+Lake Louise Boulevard
+Lakeview Drive
+Langford Place
+Larch Street
+Laurel Gate Drive
+Laurel Street
+Laurelwood Drive
+Laurier Place
+Lausanne Crescent
+Leaside Place
+Lee Avenue
+Lee Circle
+Leighland Drive
+Lester Street
+Lexington Court
+Lexington Crescent
+Lexington Road
+Lifestyle Way
+Lighthouse Place
+Lillian Drive
+Lincoln Road
+Lions Court
+Little Dover Crescent
+Lobster Lane
+Lodge Street
+Lonelm Place
+Longfellow Drive
+Longwood Drive
+Lorindale Street
+Lourdes Street
+Lucan Avenue
+Lucerne Avenue
+Lunenburg Lane
+Lynnbrook Crescent
+Lynnbrook Place
+Macdonald Place
+Macgregor Crescent
+Mackay Crescent
+Magnolia Place
+Malabar Drive
+Mallard Crescent
+Manorwood Court
+Maple Court
+Maple Forest Lane
+Maple Forest Place
+Marengo Court
+Margaret Avenue North
+Margaret Avenue South
+Mariner Drive
+Marlowe Drive
+Marshall Street
+Marsland Drive
+Martindale Crescent
+Mary Street
+Maverick Street
+Mayberry Court
+Mayfield Avenue
+Mayfield Court
+Mayflower Street
+Mayview Court
+Mayview Crescent
+Mccarron Crescent
+Mccarron Place
+Mccrae Place
+Mcdougall Road
+Mcmurray Road
+Meadowsweet Avenue
+Meadowvale Place
+Meadowvale Road
+Meaford Drive
+Mediterranean Avenue
+Meersburg Lane
+Melbourne Crescent
+Menno Street
+Middlebury Drive
+Midwood Crescent
+Milford Avenue
+Milla Court
+Millcroft Place
+Millennium Boulevard
+Moccasin Drive
+Mohawk Avenue
+Monarch Place
+Montclair Place
+Moore Avenue North
+Moore Avenue South
+Mooring Post Lane
+Morningdale Crescent
+Moscow Road
+Mossom Place
+Mount Anne Drive
+Mountain Maple Avenue
+Mountbatten Avenue
+Mulberry Lane
+Munich Circle
+Munich Cross
+Murdock Avenue
+Mustang Place
+Neilson Avenue
+New Bedford Drive
+New Forest Court
+New Hampshire Street
+Newport Place
+Niagara Drive
+Noecker Street
+None
+Norman Street
+Normandy Avenue
+North Campus Road
+Northampton Crescent
+Northampton Place
+Northcrest Place
+Northfield Drive East
+Northfield Drive West
+Northgate Avenue
+Northlake Drive
+Northlake Place
+Northland Road
+Norwood Crescent
+Oakfield Court
+Oakridge Place
+Oakvale Drive
+Old Abbey Court
+Old Abbey Road
+Old Albert Street
+Old Meadow Lane
+Old Oak Drive
+Old Oak Place
+Old Orchard Place
+Old Post Cross
+Old Post Road
+Old Stone Road
+Oriole Street
+Osprey Drive
+Oxbow Road
+Pacific Avenue
+Palamino Place
+Pan America Road
+Panchara Place
+Paradise Crescent
+Paris Boulevard
+Park Lawn Place
+Park Road
+Park Street
+Parkgreen Place
+Parkmount Drive
+Parkmount Place
+Parkridge Court
+Parkside Drive
+Parkwood Court
+Partridge Place
+Pastern Trail
+Peggys Cove Lane
+Penny Lane
+Peppler Street
+Percheron Court
+Phillip Street
+Pilgrim Circle
+Pine Grove Crescent
+Pine Island Crescent
+Pinebrook Place
+Pineland Court
+Pineland Place
+Pinemeadow Crescent
+Pineridge Road
+Pinerow Court
+Pinerow Crescent
+Pinery Trail
+Pinewood Place
+Pitfield Place
+Pittsford Close
+Pleasant Bay Court
+Pommel Gate Crescent
+Portsmouth Gate
+Post Horn Place
+Prince Edward Court
+Princess Street
+Princess Street East
+Princess Street West
+Queensdale Court
+Quickfall Drive
+Quiet Place
+Ralston Place
+Ramp
+Randall Drive
+Rankin Street
+Red Oak Place
+Red Osier Road
+Red Pine Drive
+Red River Drive
+Redfox Road
+Redwood Place
+Regal Place
+Regency Crescent
+Regina Street North
+Regina Street South
+Reiber Court
+Renaud Drive
+Residence Road U Of West
+Rheinland Place
+Rhine Fall Drive
+Rideau River Place
+Rideau River Street
+Ridgegate Drive
+Ridgeview Crescent
+Ring Road
+River Oak Drive
+River Oak Place
+Rock Point Crescent
+Rodney Street
+Roger Street
+Rolling Hills Drive
+Roosevelt Avenue
+Rose Lea Crescent
+Rosebriar Court
+Roselawn Place
+Rosemeadow Crescent
+Rosette Drive
+Roslin Avenue North
+Roslin Avenue South
+Roxton Drive
+Roy Schmidt Road
+Royal Beech Court
+Royal Beech Drive
+Royal Fern Street
+Royal Street
+Rummelhardt Drive
+Running Brook Place
+Rupert Street
+Rustic Court
+Rustic Drive
+Sable Court
+Salzburg Drive
+Sand Wood Place
+Sandbanks Crescent
+Sandbrooke Court
+Sandbury Lane
+Sandcliffe Place
+Sandford Fleming Drive
+Sandowne Drive
+Sandringham Drive
+Sandy Cove Crescent
+Sandy Ridge Place
+Sauve Crescent
+Schaefer Street
+Schnarr Street
+Schooner Crescent
+Scotchmere Court
+Seagram Drive
+Seawind Trail
+Settlersfield Court
+Severn Street
+Shadow Wood Court
+Shadow Wood Crescent
+Shagbark Court
+Shakespeare Drive
+Shakespeare Place
+Shallmar Court
+Shaughnessy Place
+Shediac Crescent
+Short Street
+Silver Wood Place
+Silverbirch Road
+Silvercrest Drive
+Silvermeadow Place
+Skylark Road
+Skyview Place
+Sleaford Street
+Smallwood Drive
+Snowcrest Place
+Somerdale Place
+Somerset Crescent
+Sorrel Place
+South Haven Drive
+Southampton Place
+Southwick Place
+Speckled Alder Street
+Spice Bush Street
+Spinnaker Crescent
+Spring Street East
+Spring Street West
+Spring Tide Court
+Springfield Crescent
+Springfield Place
+Springwater Drive
+Springwater Place
+Spruce Street
+Sprucehill Avenue
+Sprucehurst Crescent
+Squire Court
+St Anton Court
+St Armand Drive
+St Moritz Avenue
+Stanley Drive
+Stanley Drive West
+Stanwood Crescent
+Star Flower Avenue
+Starboard Crescent
+State Court
+State Street
+Steinbeck Place
+Stillmeadow Circle
+Stone Path Court
+Stonebury Crescent
+Stonehaven Drive
+Stoneheight Place
+Strathmere Court
+Strawberry Crescent
+Sugarbush Drive
+Sunnydale Place
+Sunpoint Crescent
+Sunshine Avenue
+Sunview Street
+Superior Drive
+Swallow Street
+Tamarack Drive
+Tatlock Court
+Tatlock Drive
+Teakwood Drive
+Teakwood Place
+Tealby Crescent
+Tealby Place
+Tennyson Place
+Terrystone Walk
+The Boardwalk
+The Lions Gate
+Thistleglen Place
+Thornberry Lane
+Thornbird Place
+Thornbush Crescent
+Thorncrest Drive
+Thorndale Drive
+Thorndale Place
+Thornhill Place
+Thornlea Court
+Thornview Place
+Tidewater Place
+Timbercroft Crescent
+Timlock Place
+Toll Gate Boulevard
+Toman Drive
+Transcanada Road
+Trembling Aspen Avenue
+Tweed Street
+Twin Oaks Crescent
+Twinflower Crescent
+Union Street East
+Union Street West
+University Avenue East
+University Avenue West
+University Downs Crescent
+Valley Ridge Crescent
+Vermont Street
+Villa Place
+Violet Street
+Virginia Creeper Street
+Vogel Place
+Warrington Drive
+Wasaga Crescent
+Washington Avenue
+Waterbury Lane
+Waterbury Place
+Waterloo Street
+Waterton Court
+Waterton Drive
+Weber Street North
+Weber Street South
+Wells Lane
+Werni Court
+Wes Graham Way
+West Hill Drive
+Westcourt Place
+Westcroft Drive
+Westfield Drive
+Westfield Place
+Westhaven Street
+Westhollow Court
+Westmount Road North
+Westmount Road South
+Weston Place
+Westpark Crescent
+Westridge Drive
+Westridge Place
+Westvale Drive
+Westvale Gate
+White Birch Avenue
+White Cedar Avenue
+White Elm Boulevard
+White Oak Place
+White Pine Crescent
+White Rock Crescent
+Whitecap Avenue
+Whitmore Drive
+Wideman Road
+Wild Ginger Avenue
+Wild Iris Avenue
+Wildwood Place
+William Street East
+William Street West
+Willis Way
+Willow Street
+Willow Wood Drive
+Willow Wood Place
+Willowdale Avenue
+Willowdale Place
+Wiltshire Place
+Winchester Drive
+Winder Heights Place
+Windjammer Way
+Winfield Avenue
+Wingrove Court
+Winterberry Avenue
+Winterburg Court
+Winterburg Walk
+Wintergreen Drive
+Wismer Street
+Wissler Road
+Wood Nettle Way
+Woodbend Crescent
+Woodington Place
+Woodlawn Place
+Woodrow Drive
+Woodrow Place
+Woodville Place
+Woolgrass Avenue
+Woolwich Place
+Woolwich Street
+Woolwich Street North
+Wyecroft Boulevard
+Wyman Road
+Yarmouth Drive
+York Street
+Yorkshire Drive
+Young Street East
+Young Street West
+Zermatt Drive
+Zurich Drive
